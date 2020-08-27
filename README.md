@@ -59,3 +59,4 @@ Check your work against the solutions. What you have doesn't have to be the same
 ### Feel free to contribute
 
 Feel free to contribute! If you have ideas for a document that might make a good challenge feel free to contribute. See the [contributing](contributing.md) guide. If you have a particularly good solution feel free to contribute that also! 
+# html-challenges-set-1
